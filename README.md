@@ -7,5 +7,5 @@ A collection of promotional material for the Silph League communities around the
 
 3D models have been optimized in dimensions and resolution for 0.4 nozzles. Feel free to modify the OpenSCAD or STL files to your liking.
 
-![Image of different badges] (https://raw.githubusercontent.com/tanah/SilphLeague/master/CommunityDay/Jan2018/1.jpg)
+![Image of different badges](https://github.com/tanah/SilphLeague/blob/master/CommunityDay/Jan2018/1.jpg)
 
